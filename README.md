@@ -1,5 +1,5 @@
 # css_animation
-**A bank of series of css animations**
+**Series of css animations**
 ## Preview
 [demo]()
 
